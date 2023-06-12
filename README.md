@@ -17,6 +17,7 @@ To write a program to find the LU Decomposition of a matrix.
 4.Get the input to solve the lu decomposition.
 
 5. Print the result obtained.
+
 ## Program:
 (i) To find the L and U matrix
 ```
